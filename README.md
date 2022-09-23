@@ -4,7 +4,7 @@
 - Section 7 book.py - 220907 - [link](https://github.com/JYPark-Code/fast_api_tutorial_udemy/tree/Main/Projects/Book_Project/books.py)
 - Section 8 book2.py - 220907 - [link](https://github.com/JYPark-Code/fast_api_tutorial_udemy/tree/Main/Projects/Book_Project/books2.py)
 - Section 13 ~ 17 TodoApp - 220913 ~ 19 DB(SQLite) + OAuth2(jwt) ~ Routing + alembic DB Migration - [link](https://github.com/JYPark-Code/fast_api_tutorial_udemy/tree/Main/Projects/Alembic_Project)
-- Section 18 TodoApp - 220920 JinJa2Template + sync PostgreSQL RDB - [link](https://github.com/JYPark-Code/fast_api_tutorial_udemy/tree/Main/Projects/Web_Project/TodoApp)
+- Section 18 ~ 19 TodoApp - 220920 ~ 21 JinJa2Template + sync PostgreSQL RDB + Login UserAuthentication + Change PW - [link](https://github.com/JYPark-Code/fast_api_tutorial_udemy/tree/Main/Projects/Web_Project)
 ---
 ![screencapture-127-0-0-1-8000-todos-2022-09-20-16_56_44](https://user-images.githubusercontent.com/17328659/191201381-c05c35c0-3764-427a-a133-817c2fe40ff7.png)
 ![screencapture-127-0-0-1-8000-todos-2022-09-20-16_57_02](https://user-images.githubusercontent.com/17328659/191201396-f65ad53b-e691-4e86-b79b-290847a00fff.png)
